@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "base_track": "理想的パラドクスとは",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-03-20T19:02:30.702249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "理想的パラドクスとは",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_理想的パラドクスとは_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "理想的パラドクスとは",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_理想的パラドクスとは_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "理想的パラドクスとは",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/localdb_01_理想的パラドクスとは_トゲナシトゲアリ.lrc",
+      "repo_name": "U_Nq0HeJDNY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "理想的パラドクスとは",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/localdb_02_理想的パラドクスとは_トゲナシトゲアリ.lrc",
+      "repo_name": "1zORZHzFLkc"
+    }
+  ]
+}
